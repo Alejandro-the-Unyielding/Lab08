@@ -1,9 +1,11 @@
+package it.unibo.deathnote.impl;
+
 import java.util.LinkedHashMap;
-import java.util.List;
+//import java.util.List;
 import java.util.Map;
 import java.util.Objects;
 import it.unibo.deathnote.api.DeathNote;
-import static it.unibo.deathnote.api.DeathNote.RULES;
+//import static it.unibo.deathnote.api.DeathNote.RULES;
 
 
 public class DeathNoteImplementation implements DeathNote{
